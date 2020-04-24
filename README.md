@@ -43,7 +43,7 @@ copy.addEventListener('click', function () {
     if (copy) {
         console.log("Copiado!");
     } else {
-            console.log("Ocorreu um erro!");
+        console.log("Ocorreu um erro!");
     }
 
 });
