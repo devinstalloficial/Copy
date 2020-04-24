@@ -23,7 +23,7 @@
 </html>
 ```
 
-```
+```JS
 // Pega o botão
 var copy = document.getElementById("copy");
 
